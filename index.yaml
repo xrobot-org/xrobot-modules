@@ -14,3 +14,4 @@ modules:
   - https://github.com/xrobot-org/ST7735.git
   - https://github.com/xrobot-org/W25QXX.git
   - https://github.com/xrobot-org/QMI8658.git
+  - https://github.com/xrobot-org/BMI270.git
