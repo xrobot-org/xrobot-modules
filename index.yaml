@@ -16,3 +16,4 @@ modules:
   - https://github.com/xrobot-org/QMI8658.git
   - https://github.com/xrobot-org/BMI270.git
   - https://github.com/xrobot-org/QMC5883L.git
+  - https://github.com/xrobot-org/QMC5883P.git
