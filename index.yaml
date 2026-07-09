@@ -18,3 +18,13 @@ modules:
   - https://github.com/xrobot-org/BMI270.git
   - https://github.com/xrobot-org/QMC5883L.git
   - https://github.com/xrobot-org/QMC5883P.git
+  - https://github.com/xrobot-org/SPL06.git
+  - https://github.com/xrobot-org/AK8975.git
+  - https://github.com/xrobot-org/R9DS.git
+  - https://github.com/xrobot-org/ANOFlow.git
+  - https://github.com/xrobot-org/SX1281.git
+  - https://github.com/xrobot-org/MLX90640.git
+  - https://github.com/xrobot-org/INA228.git
+  - https://github.com/xrobot-org/LC307.git
+  - https://github.com/xrobot-org/STP23L.git
+  - https://github.com/xrobot-org/GreySensor.git
