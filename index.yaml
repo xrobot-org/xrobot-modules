@@ -29,3 +29,4 @@ modules:
   - https://github.com/xrobot-org/STP23L.git
   - https://github.com/xrobot-org/GreySensor.git
   - https://github.com/xrobot-org/DurationStatistics.git
+  - https://github.com/xrobot-org/LSM6DSV16X.git
