@@ -2,9 +2,9 @@
 
 XRobot 官方模块源 / Official XRobot Module Source
 
-`index.yaml` 是 XRobot 的官方模块源，地址为 <https://xrobot.work/xrobot-modules/index.yaml>。每个条目是一个模块的 Git 仓库，GitHub 地址给出包标识 `owner/Repo`。
+`index.yaml` 是 XRobot 的官方模块源，地址为 <https://xrobot.work/xrobot-modules/index.yaml>。`modules` 列出模块仓库，`bsps` 列出 BSP 仓库，供 `xrobot source list --type bsp` 查询。GitHub 地址给出包标识 `owner/Repo`。
 
-`index.yaml` is the official XRobot Module Source, served at <https://xrobot.work/xrobot-modules/index.yaml>. Each entry is a Module Git repository; a GitHub URL gives the package identity `owner/Repo`.
+`index.yaml` is the official XRobot Module Source, served at <https://xrobot.work/xrobot-modules/index.yaml>. `modules` lists the Module repositories and `bsps` lists the BSP repositories that `xrobot source list --type bsp` shows. A GitHub URL gives the package identity `owner/Repo`.
 
 ## 使用 / Use
 
@@ -32,6 +32,7 @@ Querying and using a Module:
 
 ```bash
 xrobot source list --type module
+xrobot source list --type bsp
 xrobot source get xrobot-org/BlinkLED
 xrobot module add xrobot-org/BlinkLED@dev
 xrobot setup
