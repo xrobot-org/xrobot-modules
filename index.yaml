@@ -30,6 +30,8 @@ modules:
   - https://github.com/xrobot-org/GreySensor.git
   - https://github.com/xrobot-org/DurationStatistics.git
   - https://github.com/xrobot-org/LSM6DSV16X.git
+  - https://github.com/xrobot-org/I6X.git
+  - https://github.com/xrobot-org/MS5837.git
 bsps:
   - https://github.com/xrobot-org/BSP-OpenCR-1.0.git
   - https://github.com/xrobot-org/bsp_stm32f103.git
